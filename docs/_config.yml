@@ -1,7 +1,9 @@
-title: mcmod入门分享
-description: 版本1.12 
+title: 各种东西
+description: 
 #remote_theme: carlosperate/jekyll-theme-rtd
-remote_theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs
+
+
 
 exclude:
   # from https://github.com/jekyll/jekyll/blob/master/lib/site_template/_config.yml:
